@@ -1,0 +1,17 @@
+/home/x503243/Documents/project/src/main/java/com/company/project/guice/EndpointsInitialization.java
+/home/x503243/Documents/project/src/main/java/com/company/project/account/LocalAccountProviderImpl.java
+/home/x503243/Documents/project/src/main/java/com/company/project/service/StorageModule.java
+/home/x503243/Documents/project/src/main/java/com/company/project/api/EndpointsCommon.java
+/home/x503243/Documents/project/src/main/java/com/company/project/api/Message.java
+/home/x503243/Documents/project/src/main/java/com/company/project/service/MicroserviceModule.java
+/home/x503243/Documents/project/src/main/java/com/company/project/guice/GuiceInjectorListener.java
+/home/x503243/Documents/project/src/main/java/com/company/project/service/LocalAccountProvider.java
+/home/x503243/Documents/project/src/main/java/com/company/project/account/AccountStewardChangesSubscription.java
+/home/x503243/Documents/project/src/main/java/com/company/project/cache/RemoteAccountCache.java
+/home/x503243/Documents/project/src/main/java/com/company/project/account/LocalAccount.java
+/home/x503243/Documents/project/src/main/java/com/company/project/service/SubscriptionsModule.java
+/home/x503243/Documents/project/src/main/java/com/company/project/api/MessageEndpoint.java
+/home/x503243/Documents/project/src/main/java/com/company/project/service/ServerToEcosystemCallConfig.java
+/home/x503243/Documents/project/src/main/java/com/company/project/api/EndpointsApiProfile.java
+/home/x503243/Documents/project/src/main/java/com/company/project/cache/AbstractLocalResourceProvider.java
+/home/x503243/Documents/project/src/main/java/com/company/project/guice/EntityRegistrarModule.java
